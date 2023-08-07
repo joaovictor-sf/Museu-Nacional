@@ -158,6 +158,14 @@ input.botao{
     cursor: pointer;
 }
 
+input.botao:hover{
+    background: #ada484;
+}
+
+input.botao:active{
+    background: #534d37;
+}
+
 fieldset {
 	border: none;
 }
